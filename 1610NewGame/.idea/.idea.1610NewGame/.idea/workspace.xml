@@ -10,19 +10,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/SpaceShipEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
-                <marker date="1548984452270" expanded="true" signature="6:44" ph="..." />
+                <marker date="1548989303764" expanded="true" signature="6:44" ph="..." />
+                <marker date="1548989303764" expanded="true" signature="89:197" ph="{...}" />
+                <marker date="1548989303764" expanded="true" signature="159:195" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1610NewGame.sln.DotSettings.user">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -40,8 +42,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="width" value="1509" />
+    <option name="x" value="882" />
+    <option name="width" value="716" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectView">
@@ -85,11 +87,13 @@
       <workItem from="1548983452976" duration="1578000" />
       <workItem from="1548986502016" duration="671000" />
       <workItem from="1548987485605" duration="455000" />
+      <workItem from="1548989083459" duration="728000" />
+      <workItem from="1548989872624" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2704000" />
+    <option name="totallyTimeSpent" value="3559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -101,14 +105,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="0" width="1509" height="867" extended-state="0" />
+    <frame x="882" y="0" width="716" height="867" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24499655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.56707317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.49965495" weight="0.32970026" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -116,14 +119,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49689442" weight="0.32833788" />
-      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49689442" visible="true" weight="0.32833788" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.49758455" weight="0.32833788" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49689442" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.49758455" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5031056" side_tool="true" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5030488" side_tool="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49695122" weight="0.32833788" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -149,10 +153,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/SpaceShipEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <marker date="1548984452270" expanded="true" signature="6:44" ph="..." />
+            <marker date="1548989303764" expanded="true" signature="6:44" ph="..." />
+            <marker date="1548989303764" expanded="true" signature="89:197" ph="{...}" />
+            <marker date="1548989303764" expanded="true" signature="159:195" ph="{...}" />
           </folding>
         </state>
       </provider>
