@@ -1,29 +1,31 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
-public class Animal : MonoBehaviour
+public class Mammal : Animal 
 {
-    public string Name;
-    public int Health;
-    public float Speed;
-    public bool CanMove; 
+    public int FurCount = 10000;
+    public float EatingSpeed = 0.4f;
+    public bool CanEat = true;
+    public UnityEvent Event; 
+    
+    
 
 
-    public Color SkinColor;
+
+
+    public Color FurColor;
     
     // Start is called before the first frame update
     void Start()
-    { 
-        //Do Work
+    {
         
     }
 
     // Update is called once per frame
     void Update()
     {
-        //Do Work
-        
         
     }
 }
