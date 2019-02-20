@@ -2,17 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : MonoBehaviour
-{
+public class SpaceShipEvent : MonoBehaviour {
 
-	public string Name;
-	public int Health;
-	public float Speed;
-	public bool CanMove;
-
-	public Color SkinColor;
-	
-	
 	// Use this for initialization
 	void Start () {
 		
