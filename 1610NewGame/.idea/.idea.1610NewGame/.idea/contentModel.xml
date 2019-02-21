@@ -7,10 +7,17 @@
       <e p="1610NewGame.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Animal.cs" t="Include" />
-        <e p="FloatData.cs" t="Include" />
-        <e p="Mammal.cs" t="Include" />
-        <e p="SpaceShipEvent.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="Bird.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
+          <e p="Fish.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="FoxEvent.cs" t="Include" />
+          <e p="Mammal.cs" t="Include" />
+          <e p="PowerUpBase.cs" t="Include" />
+          <e p="SpaceShipEvent.cs" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
