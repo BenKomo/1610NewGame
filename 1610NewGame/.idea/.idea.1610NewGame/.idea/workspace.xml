@@ -3,20 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mammal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mammal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SpaceShipEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SpaceShipEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Square.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animal.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Drawings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Drawings/Animal.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Drawings/Animal.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Drawings/Game3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Drawings/Game3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/FruitPower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/FruitPower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/MeatPower.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/MeatPower.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +28,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="225">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <marker date="1550706746717" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550706746717" expanded="true" signature="141:217" ph="{...}" />
-                <marker date="1550706746717" expanded="true" signature="199:215" ph="{...}" />
+                <marker date="1550710951172" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550710951172" expanded="true" signature="141:297" ph="{...}" />
+                <marker date="1550710951172" expanded="true" signature="195:213" ph="{...}" />
+                <marker date="1550710951172" expanded="true" signature="255:291" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <folding>
+                <marker date="1550710473263" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550710473263" expanded="true" signature="170:599" ph="{...}" />
+                <marker date="1550710473263" expanded="true" signature="323:364" ph="{...}" />
+                <marker date="1550710473263" expanded="true" signature="393:435" ph="{...}" />
+                <marker date="1550710473263" expanded="true" signature="467:512" ph="{...}" />
+                <marker date="1550710473263" expanded="true" signature="576:597" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,6 +64,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,6 +77,7 @@
         <option value="$PROJECT_DIR$/Assets/Fish.cs" />
         <option value="$PROJECT_DIR$/Assets/Mammal.cs" />
         <option value="$PROJECT_DIR$/Assets/FoxEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
       </list>
     </option>
@@ -133,12 +152,12 @@
       <workItem from="1549337510744" duration="1622000" />
       <workItem from="1550644447084" duration="1544000" />
       <workItem from="1550646231671" duration="1382000" />
-      <workItem from="1550699397853" duration="5338000" />
+      <workItem from="1550699397853" duration="8119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13445000" />
+    <option name="totallyTimeSpent" value="16226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,7 +169,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="391" y="0" width="582" height="867" extended-state="0" />
+    <frame x="4" y="0" width="582" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.107279696" />
@@ -262,14 +281,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <marker date="1550710473263" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550710473263" expanded="true" signature="170:599" ph="{...}" />
+            <marker date="1550710473263" expanded="true" signature="323:364" ph="{...}" />
+            <marker date="1550710473263" expanded="true" signature="393:435" ph="{...}" />
+            <marker date="1550710473263" expanded="true" signature="467:512" ph="{...}" />
+            <marker date="1550710473263" expanded="true" signature="576:597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="225">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <marker date="1550706746717" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550706746717" expanded="true" signature="141:217" ph="{...}" />
-            <marker date="1550706746717" expanded="true" signature="199:215" ph="{...}" />
+            <marker date="1550710951172" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550710951172" expanded="true" signature="141:297" ph="{...}" />
+            <marker date="1550710951172" expanded="true" signature="195:213" ph="{...}" />
+            <marker date="1550710951172" expanded="true" signature="255:291" ph="{...}" />
           </folding>
         </state>
       </provider>
