@@ -1,18 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityScript.Steps;
 
-public class ShieldPowerUp : MonoBehaviour
+[CreateAssetMenu]
+public class ShieldPowerUp : ScriptableObject
+
 {
-    // Start is called before the first frame update
-    void Start()
+    public float Value = 50;
+    
+    void OnEnable()
+
     {
-        
+        Value = 10;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnShieldPowerUp(float AddValue)
     {
-        
+        Value += AddValue;
     }
+
+
+
 }

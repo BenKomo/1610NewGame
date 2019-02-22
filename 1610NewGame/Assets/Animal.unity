@@ -5179,8 +5179,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: {fileID: 0}
-  Speed: {fileID: 0}
+  Health: {fileID: 11400000, guid: c2d58f5da682dda4dae2311b338bc29d, type: 2}
+  Speed: {fileID: 11400000, guid: cc1116cdbef801b4b90a3f16c82ab168, type: 2}
   CanMove: 0
   SkinColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!50 &1007679620
