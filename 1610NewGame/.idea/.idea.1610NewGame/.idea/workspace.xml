@@ -224,12 +224,12 @@
       <workItem from="1550644447084" duration="1544000" />
       <workItem from="1550646231671" duration="1382000" />
       <workItem from="1550699397853" duration="10924000" />
-      <workItem from="1550788864330" duration="9354000" />
+      <workItem from="1550788864330" duration="9428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28385000" />
+    <option name="totallyTimeSpent" value="28459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -241,10 +241,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="3" width="1258" height="867" extended-state="0" />
+    <frame x="948" y="3" width="663" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04841402" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09618574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -261,9 +261,9 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49499166" visible="true" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.4941957" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49937108" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50500834" side_tool="true" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5058043" side_tool="true" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49695122" weight="0.32833788" />
       <window_info anchor="bottom" id="Unity" order="16" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
