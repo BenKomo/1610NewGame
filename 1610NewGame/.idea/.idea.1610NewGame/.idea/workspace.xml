@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animal.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameValues/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameValues/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameValues/PlayerSpeed.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameValues/PlayerSpeed.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/PowerBoost.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PowerUps/PowerBoost.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ShieldPowerUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ShieldPowerUp.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpaceShipEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpaceShipEvent.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -53,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RedOrb.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -166,9 +153,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="940" />
+    <option name="x" value="948" />
     <option name="y" value="3" />
-    <option name="width" value="671" />
+    <option name="width" value="663" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -237,12 +224,12 @@
       <workItem from="1550644447084" duration="1544000" />
       <workItem from="1550646231671" duration="1382000" />
       <workItem from="1550699397853" duration="10924000" />
-      <workItem from="1550788864330" duration="8983000" />
+      <workItem from="1550788864330" duration="9354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28014000" />
+    <option name="totallyTimeSpent" value="28385000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,10 +241,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="940" y="3" width="671" height="867" extended-state="0" />
+    <frame x="353" y="3" width="1258" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09492635" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.04841402" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -274,9 +261,9 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.4942717" visible="true" weight="0.32833788" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49499166" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49937108" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5057283" side_tool="true" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50500834" side_tool="true" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49695122" weight="0.32833788" />
       <window_info anchor="bottom" id="Unity" order="16" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -369,15 +356,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RedOrb.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        <state relative-caret-position="105">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
-            <marker date="1550710951172" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550710951172" expanded="true" signature="141:297" ph="{...}" />
-            <marker date="1550710951172" expanded="true" signature="195:213" ph="{...}" />
-            <marker date="1550710951172" expanded="true" signature="255:291" ph="{...}" />
+            <marker date="1550798839678" expanded="false" signature="6:117" ph="..." />
+            <marker date="1550798839678" expanded="true" signature="154:400" ph="{...}" />
+            <marker date="1550798839678" expanded="true" signature="298:319" ph="{...}" />
+            <marker date="1550798839678" expanded="true" signature="377:398" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -395,15 +382,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RedOrb.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="150">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
-            <marker date="1550798839678" expanded="false" signature="6:117" ph="..." />
-            <marker date="1550798839678" expanded="true" signature="154:400" ph="{...}" />
-            <marker date="1550798839678" expanded="true" signature="298:319" ph="{...}" />
-            <marker date="1550798839678" expanded="true" signature="377:398" ph="{...}" />
+            <marker date="1550710951172" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550710951172" expanded="true" signature="141:297" ph="{...}" />
+            <marker date="1550710951172" expanded="true" signature="195:213" ph="{...}" />
+            <marker date="1550710951172" expanded="true" signature="255:291" ph="{...}" />
           </folding>
         </state>
       </provider>
