@@ -12,6 +12,7 @@
           <e p="Animal.cs" t="Include" />
           <e p="Bird.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="Conditional.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FoxEvent.cs" t="Include" />
