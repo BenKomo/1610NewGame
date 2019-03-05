@@ -17,6 +17,7 @@
           <e p="FoxEvent.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
+          <e p="MoveCharacter.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="RedOrb.cs" t="Include" />
           <e p="Shield.cs" t="Include" />
