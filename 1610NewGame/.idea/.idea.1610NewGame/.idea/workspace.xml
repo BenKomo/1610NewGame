@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditional.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
+            <state relative-caret-position="300">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <marker date="1551747124815" expanded="true" signature="6:78" ph="..." />
@@ -270,12 +268,12 @@
       <workItem from="1550646231671" duration="1382000" />
       <workItem from="1550699397853" duration="10924000" />
       <workItem from="1550788864330" duration="9428000" />
-      <workItem from="1551742343269" duration="4861000" />
+      <workItem from="1551742343269" duration="4996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33320000" />
+    <option name="totallyTimeSpent" value="33455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,7 +458,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditional.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
+        <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <marker date="1551747124815" expanded="true" signature="6:78" ph="..." />
