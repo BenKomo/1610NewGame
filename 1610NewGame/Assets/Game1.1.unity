@@ -5508,9 +5508,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  Speed: 25
-  Gravity: -3
-  JumpForce: 2
+  CharacterMover: {fileID: 11400000, guid: 57059fcfbe16475498040e7cb071ed0f, type: 2}
 --- !u!1 &1180223350
 GameObject:
   m_ObjectHideFlags: 0
