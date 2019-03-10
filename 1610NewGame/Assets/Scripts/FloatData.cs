@@ -6,15 +6,11 @@ using UnityEngine;
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
 {
-    public float Value = 50;
+    [SerializeField] private float value;
 
-    void OnEnable()
+    public float Value
     {
-        
-    }
-
-    public void OnFloatData( float AddValue )
-    {
-        Value += AddValue;
+        get { return value; }
+        set { value = value; }
     }
 }
