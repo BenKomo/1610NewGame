@@ -5508,8 +5508,9 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  Speed: 3
-  Gravity: -1
+  Speed: 25
+  Gravity: -3
+  JumpForce: 2
 --- !u!1 &1180223350
 GameObject:
   m_ObjectHideFlags: 0
