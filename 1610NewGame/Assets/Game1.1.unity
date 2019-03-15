@@ -5325,10 +5325,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1101170963}
   - component: {fileID: 1101170965}
-  - component: {fileID: 1101170967}
-  - component: {fileID: 1101170968}
   - component: {fileID: 1101170969}
   - component: {fileID: 1101170964}
+  - component: {fileID: 1101170970}
+  - component: {fileID: 1101170966}
   m_Layer: 0
   m_Name: SpaceShipArt
   m_TagString: Untagged
@@ -5424,7 +5424,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1101170967
+--- !u!114 &1101170966
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5433,37 +5433,40 @@ MonoBehaviour:
   m_GameObject: {fileID: 1101170962}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08020af431b04594d849c0fb7729062b, type: 3}
+  m_Script: {fileID: 11500000, guid: afb832fac2aae8f4fb513eeec36d2be6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PowerUpPoints: 10.5
-  AdditionalHealth: 10
-  AdditionalSpeed: 1.2
-  AdditionalShield: 10
-  ShieldPower: 120
-  ShieldRegSpeed: 0.5
-  CanBlock: 1
-  Event:
+  StartEvent:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!114 &1101170968
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1101170962}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cd955ebd2331e9f419f8380bd20f2371, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PowerUpPoints: 10.5
-  AdditionalHealth: 10
-  AdditionalSpeed: 1.2
-  AdditionalShield: 10
+  EnableEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  TriggerEnterEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: c2d58f5da682dda4dae2311b338bc29d, type: 2}
+        m_MethodName: set_Value
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 10
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  UpdateEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1101170969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5509,6 +5512,19 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   CharacterMover: {fileID: 11400000, guid: 57059fcfbe16475498040e7cb071ed0f, type: 2}
+--- !u!65 &1101170970
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101170962}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9.08, y: 6.29, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1180223350
 GameObject:
   m_ObjectHideFlags: 0
@@ -5956,7 +5972,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8820881044770862215, guid: 83e3fbb76a15d5240a454e9ad840b9ff, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 83e3fbb76a15d5240a454e9ad840b9ff, type: 3}
 --- !u!1 &8880223320222008307 stripped
 GameObject:
@@ -5964,60 +5981,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 6901256560311298586}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &8880223320222008308
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8880223320222008307}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afb832fac2aae8f4fb513eeec36d2be6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  StartEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  EnableEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  TriggerEnterEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: c2d58f5da682dda4dae2311b338bc29d, type: 2}
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  UpdateEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
 --- !u!65 &8880223320222008309
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6026,7 +5989,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8880223320222008307}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 0.2}

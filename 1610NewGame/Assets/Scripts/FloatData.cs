@@ -6,11 +6,22 @@ using UnityEngine;
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
 {
-    [SerializeField] private float value;
+    [SerializeField] private float value = 10;
 
     public float Value
     {
         get { return value; }
-        set { value = value; }
+        set { this.value -= value; }
+    }
+
+    public void UpdateValue(float floatInput)
+    {
+        Value += floatInput;
+    }
+
+    public void UpdateValue(FloatData dataObj)
+    {
+        Value += dataObj.Value;
+
     }
 }

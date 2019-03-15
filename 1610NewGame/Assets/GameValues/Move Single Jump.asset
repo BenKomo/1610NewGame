@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d152d732a101e9b4298619bd0e755f88, type: 3}
-  m_Name: New Move Single Jump
+  m_Name: Move Single Jump
   m_EditorClassIdentifier: 
   Speed: 25
   JumpForce: 2
