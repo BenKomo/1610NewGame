@@ -1,26 +1,35 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Animal : MonoBehaviour
 {
+    public UnityEvent Event;
     public string Name;
     public FloatData Health;
     public FloatData Speed;
-    public bool CanMove; 
+    public bool CanMove;
+
+    protected Color newColor;
 
 
     public Color SkinColor;
+
+    public void Move ()
+    {
+        print("Move");
+    }
     
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     { 
-        //Do Work
+        Event.Invoke();
         
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         //Do Work
         

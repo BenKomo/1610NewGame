@@ -24,8 +24,10 @@
           <e p="MoveWithAxis.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="RedOrb.cs" t="Include" />
+          <e p="ReturnFunction.cs" t="Include" />
           <e p="Shield.cs" t="Include" />
           <e p="ShieldPowerUp.cs" t="Include" />
+          <e p="UpDateBar.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

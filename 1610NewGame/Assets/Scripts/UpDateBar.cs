@@ -1,26 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class Fish : Animal
+public class UpDateBar : MonoBehaviour
 {
-    public int ScaleCount = 100;
-    public float EatSpeed = 0.3f;
-    public bool CanEat = true;
-    public Color FinColor;
-    
+
+    private Image BarImage;
+
+    public FloatData FillNumber;
     
     
     // Start is called before the first frame update
     void Start()
     {
-        newColor = Color.blue;
-
+        BarImage = GetComponent<Image>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        BarImage.fillAmount = FillNumber.Value; 
     }
 }
