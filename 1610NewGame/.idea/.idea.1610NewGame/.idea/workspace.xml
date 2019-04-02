@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PreFabs/Ammo.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PreFabs/Ammo.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Animal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Fish.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Fish.cs" afterDir="false" />
-    </list>
+    <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,8 +226,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1007" />
-    <option name="y" value="3" />
+    <option name="x" value="678" />
+    <option name="y" value="4" />
     <option name="width" value="600" />
     <option name="height" value="867" />
   </component>
@@ -332,12 +327,12 @@
       <workItem from="1550788864330" duration="9428000" />
       <workItem from="1551742343269" duration="4996000" />
       <workItem from="1552170711028" duration="11379000" />
-      <workItem from="1552606763649" duration="7188000" />
+      <workItem from="1552606763649" duration="7233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52022000" />
+    <option name="totallyTimeSpent" value="52067000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,7 +344,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1007" y="3" width="600" height="867" extended-state="0" />
+    <frame x="678" y="4" width="600" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21296297" />
