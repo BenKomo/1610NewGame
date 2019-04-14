@@ -33,4 +33,15 @@ public class Collection : ScriptableObject
             }
         } 
     }
+
+    public void FuelInfo()
+    {
+        for (int i = 0; i < CollectionList.Count; i++)
+        {
+            if (CollectionList[i].name == "Fuel")
+            {
+                Debug.Log(CollectionList[i]);
+            }
+        }
+    }
 }
