@@ -18,13 +18,13 @@ public class MonoEvents : MonoBehaviour
     {
         EnableEvent.Invoke();
     }
-
+ void Update()
+    {
+        UpdateEvent.Invoke();
+    }
     private void OnMouseDown()
     {
         TriggerEnterEvent.Invoke();
     }
-    void Update()
-    {
-        UpdateEvent.Invoke();
-    }
+   
 }
