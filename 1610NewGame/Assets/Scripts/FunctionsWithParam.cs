@@ -5,7 +5,7 @@ using UnityEngine;
 public class FunctionsWithParam : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
        AddDate(12.5f, 8.5f); 
     }
@@ -16,7 +16,7 @@ public class FunctionsWithParam : MonoBehaviour
         
     }
 
-    private void AddDate(float a, float b)
+    private static void AddDate(float a, float b)
     {
         print(a+b);
     }

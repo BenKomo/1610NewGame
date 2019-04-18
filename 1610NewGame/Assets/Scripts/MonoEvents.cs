@@ -6,7 +6,7 @@ using UnityScript.Steps;
 
 public class MonoEvents : MonoBehaviour
 {
-    public UnityEvent StartEvent, EnableEvent, TriggerEnterEvent, UpdateEvent;
+    public UnityEvent StartEvent, EnableEvent, TriggerEnterEvent, UpdateEvent, CollisionEnterEvent;
     
     // Start is called before the first frame update
     void Start()
@@ -25,6 +25,12 @@ public class MonoEvents : MonoBehaviour
     private void OnMouseDown()
     {
         TriggerEnterEvent.Invoke();
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        CollisionEnterEvent.Invoke();
+        
     }
    
 }
