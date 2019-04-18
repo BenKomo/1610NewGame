@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8464a986-eec3-4972-b11e-609f153b1da5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610NewGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FunctionsWithParam.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FunctionsWithParam.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,23 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReturnFunction.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <marker date="1552613780632" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552613780632" expanded="true" signature="123:658" ph="{...}" />
-                <marker date="1552613780632" expanded="true" signature="275:309" ph="{...}" />
-                <marker date="1552613780632" expanded="true" signature="337:371" ph="{...}" />
-                <marker date="1552613780632" expanded="true" signature="398:520" ph="{...}" />
-                <marker date="1552613780632" expanded="true" signature="595:651" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpDateBar.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+            <state relative-caret-position="41">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <marker date="1555623528444" expanded="false" signature="6:129" ph="..." />
                 <marker date="1555623528444" expanded="true" signature="170:712" ph="{...}" />
@@ -183,6 +163,21 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FrocesNumberTwo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <marker date="1555630048303" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555630048303" expanded="true" signature="159:386" ph="{...}" />
+                <marker date="1555630048303" expanded="true" signature="250:305" ph="{...}" />
+                <marker date="1555630048303" expanded="true" signature="335:384" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -207,6 +202,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shield.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrocesNumberTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpDateBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fish.cs" root0="FORCE_HIGHLIGHTING" />
@@ -248,12 +244,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GunStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FrocesNumberTwo.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="2" />
-    <option name="width" value="794" />
+    <option name="width" value="738" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -355,12 +352,12 @@
       <workItem from="1552606763649" duration="7233000" />
       <workItem from="1555195157703" duration="2425000" />
       <workItem from="1555198718088" duration="3311000" />
-      <workItem from="1555613933687" duration="5477000" />
+      <workItem from="1555613933687" duration="6853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63280000" />
+    <option name="totallyTimeSpent" value="64656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,10 +369,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="2" width="794" height="867" extended-state="0" />
+    <frame x="0" y="2" width="738" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.040871933" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.044247787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -392,9 +389,9 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.48501363" visible="true" weight="0.33787465" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.48525074" visible="true" weight="0.33787465" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49937108" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5149864" side_tool="true" visible="true" weight="0.33787465" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5147493" side_tool="true" visible="true" weight="0.33787465" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49695122" weight="0.32833788" />
       <window_info anchor="bottom" id="Unity" order="16" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -736,6 +733,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1555623528444" expanded="false" signature="6:129" ph="..." />
+            <marker date="1555623528444" expanded="true" signature="170:712" ph="{...}" />
+            <marker date="1555623528444" expanded="true" signature="347:388" ph="{...}" />
+            <marker date="1555623528444" expanded="true" signature="417:459" ph="{...}" />
+            <marker date="1555623528444" expanded="true" signature="474:516" ph="{...}" />
+            <marker date="1555623528444" expanded="true" signature="547:595" ph="{...}" />
+            <marker date="1555623528444" expanded="true" signature="647:706" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -749,18 +762,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FrocesNumberTwo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding>
-            <marker date="1555623528444" expanded="false" signature="6:129" ph="..." />
-            <marker date="1555623528444" expanded="true" signature="170:712" ph="{...}" />
-            <marker date="1555623528444" expanded="true" signature="347:388" ph="{...}" />
-            <marker date="1555623528444" expanded="true" signature="417:459" ph="{...}" />
-            <marker date="1555623528444" expanded="true" signature="474:516" ph="{...}" />
-            <marker date="1555623528444" expanded="true" signature="547:595" ph="{...}" />
-            <marker date="1555623528444" expanded="true" signature="647:706" ph="{...}" />
+            <marker date="1555630048303" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555630048303" expanded="true" signature="159:386" ph="{...}" />
+            <marker date="1555630048303" expanded="true" signature="250:305" ph="{...}" />
+            <marker date="1555630048303" expanded="true" signature="335:384" ph="{...}" />
           </folding>
         </state>
       </provider>
