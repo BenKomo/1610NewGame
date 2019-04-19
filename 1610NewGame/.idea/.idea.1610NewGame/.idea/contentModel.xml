@@ -14,7 +14,9 @@
           <e p="Collection.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="Conditional.cs" t="Include" />
+          <e p="EnemyAI.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
+          <e p="FlipCharacter.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="FoxEvent.cs" t="Include" />
