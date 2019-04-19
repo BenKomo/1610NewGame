@@ -29,6 +29,7 @@
           <e p="MoveCharacter.cs" t="Include" />
           <e p="MoveSingleJump.cs" t="Include" />
           <e p="MoveWithAxis.cs" t="Include" />
+          <e p="PatrolOrAttack.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="RedOrb.cs" t="Include" />
           <e p="ReturnFunction.cs" t="Include" />
