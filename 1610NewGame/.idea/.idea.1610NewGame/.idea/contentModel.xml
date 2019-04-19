@@ -14,6 +14,7 @@
           <e p="Collection.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="Conditional.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="EnemyAI.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
