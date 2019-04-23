@@ -34,6 +34,7 @@
           <e p="PowerUpBase.cs" t="Include" />
           <e p="RedOrb.cs" t="Include" />
           <e p="ReturnFunction.cs" t="Include" />
+          <e p="RunAnims.cs" t="Include" />
           <e p="Shield.cs" t="Include" />
           <e p="ShieldPowerUp.cs" t="Include" />
           <e p="StateMachine.cs" t="Include" />
