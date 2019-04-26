@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="405">
               <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding>
                 <marker date="1555636031780" expanded="false" signature="6:118" ph="..." />
@@ -26,20 +26,9 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-              <folding>
-                <marker date="1555636031828" expanded="false" signature="6:118" ph="..." />
-                <marker date="1555636031828" expanded="true" signature="182:878" ph="{...}" />
-                <marker date="1555636031828" expanded="true" signature="277:336" ph="{...}" />
-                <marker date="1555636031828" expanded="true" signature="441:876" ph="{...}" />
-                <marker date="1555636031828" expanded="true" signature="478:861" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/CameraController.cs">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -125,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="330">
               <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding>
                 <marker date="1555640307162" expanded="false" signature="6:104" ph="..." />
@@ -152,13 +141,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunAnims.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="255">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <marker date="1556052119066" expanded="true" signature="6:121" ph="..." />
+                <marker date="1556052119066" expanded="false" signature="6:121" ph="..." />
                 <marker date="1556052119066" expanded="true" signature="160:420" ph="{...}" />
                 <marker date="1556052119066" expanded="true" signature="289:343" ph="{...}" />
                 <marker date="1556052119066" expanded="true" signature="362:413" ph="{...}" />
@@ -183,6 +172,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FunctionsWithParam.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlipCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/CameraController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RunAnims.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs" root0="FORCE_HIGHLIGHTING" />
@@ -259,6 +249,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -291,10 +285,6 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,11 +344,12 @@
       <workItem from="1555198718088" duration="3311000" />
       <workItem from="1555613933687" duration="14770000" />
       <workItem from="1556051186749" duration="1313000" />
+      <workItem from="1556242359907" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73886000" />
+    <option name="totallyTimeSpent" value="74482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,9 +381,9 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.48463356" visible="true" weight="0.3399123" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.48345155" visible="true" weight="0.3399123" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49937108" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.51536644" side_tool="true" visible="true" weight="0.3399123" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.51654845" side_tool="true" visible="true" weight="0.3399123" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49695122" weight="0.32833788" />
       <window_info anchor="bottom" id="Unity" order="16" sideWeight="0.49937108" weight="0.32970026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -653,6 +644,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <marker date="1555636031828" expanded="false" signature="6:118" ph="..." />
+            <marker date="1555636031828" expanded="true" signature="182:878" ph="{...}" />
+            <marker date="1555636031828" expanded="true" signature="277:336" ph="{...}" />
+            <marker date="1555636031828" expanded="true" signature="441:876" ph="{...}" />
+            <marker date="1555636031828" expanded="true" signature="478:861" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -723,37 +728,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateMachine.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <marker date="1555636031828" expanded="false" signature="6:118" ph="..." />
-            <marker date="1555636031828" expanded="true" signature="182:878" ph="{...}" />
-            <marker date="1555636031828" expanded="true" signature="277:336" ph="{...}" />
-            <marker date="1555636031828" expanded="true" signature="441:876" ph="{...}" />
-            <marker date="1555636031828" expanded="true" signature="478:861" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding>
-            <marker date="1555636031780" expanded="false" signature="6:118" ph="..." />
-            <marker date="1555636031780" expanded="true" signature="157:916" ph="{...}" />
-            <marker date="1555636031780" expanded="true" signature="259:337" ph="{...}" />
-            <marker date="1555636031780" expanded="true" signature="398:914" ph="{...}" />
-            <marker date="1555636031780" expanded="true" signature="434:908" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="330">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
             <marker date="1555640307162" expanded="false" signature="6:104" ph="..." />
@@ -779,16 +756,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/RunAnims.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="255">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <marker date="1556052119066" expanded="true" signature="6:121" ph="..." />
+            <marker date="1556052119066" expanded="false" signature="6:121" ph="..." />
             <marker date="1556052119066" expanded="true" signature="160:420" ph="{...}" />
             <marker date="1556052119066" expanded="true" signature="289:343" ph="{...}" />
             <marker date="1556052119066" expanded="true" signature="362:413" ph="{...}" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <marker date="1555636031780" expanded="false" signature="6:118" ph="..." />
+            <marker date="1555636031780" expanded="true" signature="157:916" ph="{...}" />
+            <marker date="1555636031780" expanded="true" signature="259:337" ph="{...}" />
+            <marker date="1555636031780" expanded="true" signature="398:914" ph="{...}" />
+            <marker date="1555636031780" expanded="true" signature="434:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RPG Character Animation Pack FREE/Code/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
